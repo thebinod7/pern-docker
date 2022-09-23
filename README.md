@@ -1,7 +1,7 @@
 
 # PERN DOCKER
 
-Dockerize Node, React and Postgres with docker compose
+Dockerize Node, React and Postgres with nginx and docker compose
 ## Run Locally
 
 Clone the project
